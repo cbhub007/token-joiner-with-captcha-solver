@@ -1,5 +1,13 @@
 # token-joiner-with-captcha-solver
-
+discord token joiner
+discord token joiner with cap solver
+discord tools
+discord
+discord ev gen
+discord pv tool
+discord phone verifier tool
+discord account gen
+discord token gen
 
 # Discord Multi-Tool — Server Joiner & AI Captcha Solver
 
